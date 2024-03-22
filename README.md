@@ -1,5 +1,5 @@
-script.js is basic mechnasim code &&
-game.js mechnasim code with global code comibined
+script.js is basic mechanism code &&
+game.js mechanism code with global code combined
 
 Instruction:
 1. use up arrow key to jump
