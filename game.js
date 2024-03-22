@@ -21,8 +21,8 @@ const gameTitle = `Game Title`
 const gameDescription = `Game Description`
 const gameInstruction =
     `Instructions:
-  1. Instruction 1
-  2. Instruction 2`;
+  1. Use UP arrow to jump
+  2. Use RIGHT arrow to throw`;
 
 
 // Custom Font Colors
