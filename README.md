@@ -1,4 +1,4 @@
-script.js is basic mechnasim code
+script.js is basic mechnasim code &&
 game.js mechnasim code with global code comibined
 
 Instruction:
